@@ -1,0 +1,11 @@
+El Problema:
+
+Recibes y_true y y_pred.
+
+Tu Misión:
+
+Escribe evaluar_modelo_avanzado(y_true, y_pred) que:
+
+- Calcule confusion matrix
+- Calcule accuracy, precision, recall manualmente
+- Devuelva dict
