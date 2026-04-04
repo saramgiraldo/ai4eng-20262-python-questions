@@ -1,0 +1,11 @@
+El Problema:
+
+Recibes un DataFrame de pandas que contiene columnas 'price' y 'rating'.
+
+Tu Misión:
+
+Escribe una función llamada filtrar_y_ordenar(df, min_price, min_rating) que:
+
+- Filtre filas donde price > min_price y rating >= min_rating
+- Ordene por price descendente
+- Devuelva el DataFrame resultante
