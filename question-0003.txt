@@ -1,0 +1,14 @@
+El Problema:
+
+Recibes un DataFrame con features y una columna 'target'.
+
+Tu Misión:
+
+Escribe una función entrenar_y_evaluar_knn(df, k) que:
+
+- Separe X e y
+- Escale los datos
+- Divida en train/test (80/20)
+- Entrene KNN
+- Calcule accuracy
+- Devuelva accuracy
