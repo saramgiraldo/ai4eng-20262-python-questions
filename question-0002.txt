@@ -1,0 +1,12 @@
+El Problema:
+
+Recibes un DataFrame con columnas 'group' y 'value'.
+
+Tu Misión:
+
+Escribe una función agrupar_y_normalizar(df) que:
+
+- Agrupe por 'group'
+- Calcule el promedio de 'value'
+- Normalice entre 0 y 1
+- Devuelva DataFrame con columnas 'group' y 'normalized_value'
